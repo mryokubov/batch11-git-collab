@@ -5,4 +5,8 @@ public class LoginPage extends BasePage {
     public LoginPage(){
 
     }
+
+    public void login(String username, String password){
+
+    }
 }
