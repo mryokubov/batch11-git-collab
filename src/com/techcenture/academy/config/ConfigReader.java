@@ -4,6 +4,6 @@ public class ConfigReader {
 
 
     public static String getBroweser() {
-        return "dgf yvd";
+        return "dgf gc vchvguj";
     }
 }
