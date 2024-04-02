@@ -14,4 +14,13 @@ public class ContactUsPage  extends BasePage{
         System.out.println("verifying contact us button");
     }
 
+    public void sendEmdial(){
+        System.out.println("sendign email");
+    }
+
+
+    public void sendTxt(){
+        System.out.println("sendin txt");
+    }
+
 }
