@@ -4,6 +4,8 @@ public class BasePage {
 
     public BasePage(){
 
+
     }
+
 
 }
